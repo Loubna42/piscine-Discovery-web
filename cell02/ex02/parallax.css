@@ -1,0 +1,55 @@
+body, html {
+    /* margin: 0; padding: 0;
+    font-size: 100%;
+    scroll-behavior: smooth;
+    background-color: #212121; 
+    min-height: 25vh; width: 100vw;
+    overflow-x: hidden;
+    background: url(https://cdn.pixabay.com/photo/2019/08/25/13/34/dogs-4429513__340.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center; */
+    height: 100%;
+    }
+    .parallax1 {
+        /* The image used */
+        background-image: url(https://cdn.pixabay.com/photo/2019/08/25/13/34/dogs-4429513__340.jpg);
+      
+        /* Set a specific height */
+        /* min-height: 500px;  */
+        height: 100%;
+        /* Create the parallax scrolling effect */
+        background-attachment: scroll;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .parallax2 {
+        /* The image used */
+        background-image: url(https://cdn.pixabay.com/photo/2014/08/21/14/51/dog-423398__340.jpg);
+        height: 100%;
+        background-attachment: scroll;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      } 
+      .parallax3 {
+        /* The image used */
+        background-image: url(https://cdn.pixabay.com/photo/2019/05/21/05/07/dog-4218265__340.jpg);
+        height: 100%;
+        background-attachment: scroll;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      } 
+      /* .legende {
+        font-size: 100%;
+      }
+
+      .photo {
+          height:100px;
+          background-color:#0a0000;
+          font-size:36px;
+      } */
+      
